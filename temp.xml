@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<Cmd>
+    <cmdExpress name="获取">
+        <expression>ls</expression>
+        <until>]%</until>
+    </cmdExpress>
+</Cmd>
